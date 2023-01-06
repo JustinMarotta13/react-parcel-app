@@ -1,0 +1,11 @@
+# ignore public folder
+public/
+
+# ignore node_modules folder
+node_modules/
+
+# ignore dist folder
+dist/
+
+# ignore .parcel-cache folder
+.parcel-cache/
